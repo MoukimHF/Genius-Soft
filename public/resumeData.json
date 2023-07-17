@@ -1,0 +1,239 @@
+{
+  "main": {
+    "name":"Genius Soft",
+    "description":"Chez Genius Soft, nous sommes passionnés par la création de solutions innovantes et personnalisées pour répondre aux besoins uniques de nos clients. Nous sommes une équipe talentueuse de développeurs passionnés par la technologie et dédiés à offrir des résultats exceptionnels.",
+    "image":"profilepic.png",
+    "bio":"Chez Genius Soft, nous sommes passionnés par la création de solutions innovantes et personnalisées pour répondre aux besoins uniques de nos clients. Nous sommes une équipe talentueuse de développeurs passionnés par la technologie et dédiés à offrir des résultats exceptionnels. Notre approche est axée sur la collaboration étroite avec nos clients afin de comprendre leurs objectifs, leurs défis et leurs exigences spécifiques. Nous croyons que chaque projet est unique, et c'est pourquoi nous nous engageons à fournir des solutions sur mesure qui dépassent les attentes.",
+    "contactmessage":"",
+    "email": "contact@geniussoft.tn",
+    "phone": "+216 55522211",
+    "github":"https://github.com/geniussoft/genius",
+    "project":"https://github.com/geniussoft/genius",
+    "address":{
+      "street":"Elguettar",
+      "city":"(Gafsa)",
+      "state":"(Gafsa)",
+      "zip": "(2180)"
+    },
+    "website": "http://www.geniussoft.tn",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/genius.software",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/genius.software",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/genius.software/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/genius.software",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/geniussoft",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Voici quelques statistiques de mes compétences",
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"75%"
+      },
+      {
+        "name":"Node Js",
+        "level":"55%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [    
+      {
+        "title":"Back office - management system",
+        "category":"Nice and user friendly back office to manage your system efficiently  .",
+        "image":"backoffice.png",
+        "url":"https://kapi.lol",
+        "github":""
+      },
+      {
+        "title":"Good Kebab Restaurant",
+        "category":"A restaurant e-commerce website ",
+        "image":"goodkebab.PNG",
+        "url":"https://goodlkebab-912de.web.app/",
+        "github":""
+      },
+      {
+        "title":"VNXK Fashion website",
+        "category":"A Vietnamian Fashion brand website distibuter, built using Next Js a react framework for SSR ",
+        "image":"vnxk.PNG",
+        "url":"https://vnxk.vercel.app/",
+        "github":""
+      },
+      {
+        "title":"Soft Vision",
+        "category":"a React website built with Next.js framework",
+        "image":"soft1.PNG",
+        "url":"https://softvision.moukimhf.vercel.app/",
+        "github":""
+      },
+      {
+        "title":"MyBosphorus Hotels SUPPLY SOLUTIONS",
+        "category":"react + redux website using node JS for the backend",
+        "image":"mybosphorus.PNG",
+        "url":"https://mybosphorus.com",
+        "github":""
+      },
+
+      {
+        "title":"Java Library desktop application",
+        "category":"Java Library desktop application using JavaFX",
+        "image":"javalibrary.PNG",
+        "url":"",
+        "github":"https://github.com/MoukimHF/JavaFx-Library-backend-frontend-JavaFX-By-moukim-"
+      },
+      {
+        "title":"full stack app with react and a rest api",
+        "category":"full-stack-app-with-react-and-a-rest-api-v1-by-moukim-hfaidh",
+        "image":"fullstack.PNG",
+        "url":"https://full-stack-app-with-react-and-a-rest-api-v1-by-moukim-hfaidh.vercel.app/",
+        "github":"https://github.com/MoukimHF/full_stack_app_with_react_and_a_rest_api-v1-by-moukim-hfaidh"
+      },
+      {
+        "title":"BookWorm app training to use passport for Oauth (facebook,Github)",
+        "category":" use passport for Oauth (facebook,Github) With MongoDb",
+        "image":"bookworm.PNG",
+        "url":"",
+        "github":"https://github.com/MoukimHF/passport-authentification"
+      },
+      {
+        "title":"React Gallery App",
+        "category":"React Gallery App",
+        "image":"gallery.PNG",
+        "url":"https://react-gallery-app-pi.vercel.app/",
+        "github":"https://github.com/MoukimHF/React-gallery-app-moukim-treehouseV2"
+      },
+      {
+        "title":"Sequelize CRUD NODE JS With Pug",
+        "category":"Sequelize CRUD NODE JS With Pug (articles)",
+        "image":"sequelize.PNG",
+        "url":"https://sequelize-moukim.herokuapp.com/",
+        "github":"https://github.com/MoukimHF/sequelize-moukim-crud-nodejs"
+      },
+      {
+        "title":"building a fun and interactive 'Four in a Row' game",
+        "category":"Practicing my Object-oriented javascript skills ",
+        "image":"fourInArow.PNG",
+        "url":"https://moukimhf.github.io/4-In-A-Row-Game-Js-POO/",
+        "github":"https://github.com/MoukimHF/4-In-A-Row-Game-Js-POO"
+      },
+      {
+        "title":"React GIF Search",
+        "category":"React GIF Search using Giffy Api",
+        "image":"gif_search.PNG",
+        "url":"https://react-gif-project.moukimhf.now.sh/",
+        "github":"https://github.com/MoukimHF/React-Gif-Project"
+      },
+      {
+        "title":"Front End Course Directory",
+        "category":"Front End Course Directory using React",
+        "image":"teachers.PNG",
+        "url":"https://coursesbymoukim.netlify.app/",
+        "github":"https://github.com/MoukimHF/course-directory-treehouse-project-moukim"
+      },
+      {
+        "title":"RSVP application",
+        "category":"RSVP application SPA using React",
+        "image":"rsvp.PNG",
+        "url":"https://rsvp-treehouse.vercel.app/",
+        "github":"https://github.com/MoukimHF/rsvp_treehouse"
+      },
+      {
+        "title":"Score Board using React ",
+        "category":"Score Board using React",
+        "image":"score-board.PNG",
+        "url":"https://score-board-mouk.vercel.app/",
+        "github":"https://github.com/MoukimHF/score-board-mouk"
+      },
+      {
+        "title":"Phrase Hunter",
+        "category":"a browser-based, word guessing game: Phrase Hunter. fully developed using JS native",
+        "image":"project4_1.PNG",
+        "url":"https://moukimhf.github.io/Phrase-Hunter-v2-by-Moukim/index.html",
+        "github":"https://github.com/MoukimHF/Phrase-Hunter-v2-by-Moukim"
+      },
+      {
+        "title":"Rahma #Ched_Darek Stay at home",
+        "category":"(actually offline)A Hackaton project create in 24 hours to find a helper solution on the co-vid19 pandamic ",
+        "image":"project6_1.PNG",
+        "url":"",
+        "github":"https://github.com/MoukimHF/Tn-Solvers--chedDarek"
+      },
+      {
+        "title":"Node Js + express library",
+        "category":"Node Js + express library sequelize DB",
+        "image":"nodeJsLibrary.PNG",
+        "url":"https://library-moukim.herokuapp.com/",
+        "github":"https://github.com/MoukimHF/sql_library_manager-v1-treehouse-bymoukim"
+      },
+      {
+        "title":"Interactive Form",
+        "category":"Js html css interactive form.",
+        "image":"Project3_2.PNG",
+        "url":"https://moukimhf.github.io/Interactive-Form-TeamTreeHouse-Moukim-hfaidh/",
+        "github":"https://github.com/MoukimHF/Interactive-Form-TeamTreeHouse-Moukim-hfaidh"
+      },
+      {
+        "title":"Pagination & Content Filter",
+        "category":"Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into pages. As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+        "image":"Project2_1.PNG",
+        "url":"https://moukimhf.github.io/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination/index.html",
+        "github":"https://github.com/MoukimHF/Treehouse_Techdegree_FSJS_project_2_-List_Filter_and_Pagination"
+      },
+      {
+        "title":"Public API to Create an Employee Directory",
+        "category":"Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+        "image":"project5_2.PNG",
+        "url":"https://moukimhf.github.io/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim/",
+        "github":"https://github.com/MoukimHF/Public_Api-Request-V1_TeamTreeHouse_TD-By-Moukim"
+      },
+      {
+        "title":"Random Quote Generator",
+        "category":"Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "image":"projet1_main.png",
+        "url":"https://moukimhf.github.io/a_random_quote_generator-v1-by_moukim_hfaidh/",
+        "github":"https://github.com/MoukimHF/a_random_quote_generator-v1-by_moukim_hfaidh"
+      }
+    ]
+  }
+}
