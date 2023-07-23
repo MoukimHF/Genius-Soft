@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
 
     if(this.props.data){
-       var github = this.props.data.github;
+      //  var github = this.props.data.github;
       var name = this.props.data.name;
       var description= this.props.data.description;
   
